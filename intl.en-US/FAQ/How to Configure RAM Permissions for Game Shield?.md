@@ -2,7 +2,7 @@
 
 Game Shield supports the division of permissions through the RAM system. The specific steps are as follows:
 
-1.   See [Create  RAM user](../../SP_65/DNRAM11815774/ZH-CN_TP_12340.dita) to create and configure RAM accounts. 
+1.   See [Create  RAM user](../../../../dita-oss-bucket/SP_65/DNRAM11815774/EN-US_TP_12340.dita) to create and configure RAM accounts. 
 2.   Assign Game Shield’s related permissions. 
 
     Currently, the following two permissions are supported:
